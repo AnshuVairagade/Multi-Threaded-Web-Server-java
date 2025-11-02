@@ -4,6 +4,13 @@ A **Java-based multi-threaded HTTP server** built from scratch using core networ
 
 Packaged with **Maven** and validated under load using **ApacheBench (ab)** and **JMeter**, this project serves as a practical foundation for learning **sockets**, **synchronization**, **low-level HTTP handling**, and **performance testing in Java**.
 
+# Apache BenchMark Testing
+<img width="1920" height="1080" alt="Screenshot 2025-10-23 175105" src="https://github.com/user-attachments/assets/7d9d103d-4ec5-4554-9c4b-3ba073a82531" />
+
+# JMeter Testing
+<img width="1635" height="1079" alt="Screenshot 2025-10-31 231355" src="https://github.com/user-attachments/assets/3a68757e-cbf7-457a-bd01-ec77dc134e32" />
+<img width="1694" height="1079" alt="Screenshot 2025-10-31 231559" src="https://github.com/user-attachments/assets/66f8c5d6-3a9f-4bdd-8510-2f1a886a8a37" />
+
 ---
 
 ## 🚀 Features
