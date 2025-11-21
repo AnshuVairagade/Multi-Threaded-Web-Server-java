@@ -172,17 +172,6 @@ Contributions are welcome!
 
 ## 📄 License
 
-This project is licensed as specified by the repository owner.
-Please include a **LICENSE** file for clarity.
+MIT License
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit changes with clear messages
-4. Open a pull request describing the rationale and testing
-
----
-
-## 📄 License
-
-This project is licensed as specified by the repository owner.
-Please include a **LICENSE** file for clarity.
+Copyright (c) [2025] [Anshu Varagade]
